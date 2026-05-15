@@ -125,10 +125,15 @@ Channapatna Namma Pride provides a digital verification platform where every aut
 - Artisan video content
 - Google Play Store deployment
 
----
-## Screenshots
-![Home]([screenshots/home.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/home.jpeg)) | ![Verify]([screenshots/verify.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/verify.jpeg)) | ![AI]([screenshots/ai.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/ai.jpeg))
+---## Screenshots
 
+| Home | Verify | NammaBot |
+|---|---|---|
+| ![Home](Screenshot/home.jpeg) | ![Verify](Screenshot/verify.jpeg) | ![AI](Screenshot/ai.jpeg) |
+
+| Catalogue | Workshops | Maps |
+|---|---|---|
+| ![Catalogue](Screenshot/catalogue.jpeg) | ![Workshops](Screenshot/workshop.jpeg) | ![Maps](Screenshot/maps.jpeg) |
 
 
 ## 👩‍💻 Developed By
