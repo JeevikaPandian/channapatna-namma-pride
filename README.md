@@ -126,6 +126,9 @@ Channapatna Namma Pride provides a digital verification platform where every aut
 - Google Play Store deployment
 
 ---
+## Screenshots
+
+
 
 ## 👩‍💻 Developed By
 
