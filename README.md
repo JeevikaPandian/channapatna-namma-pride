@@ -125,7 +125,8 @@ Channapatna Namma Pride provides a digital verification platform where every aut
 - Artisan video content
 - Google Play Store deployment
 
----## Screenshots
+---
+## Screenshots
 
 | Home | Verify | NammaBot |
 |---|---|---|
@@ -135,6 +136,7 @@ Channapatna Namma Pride provides a digital verification platform where every aut
 |---|---|---|
 | ![Catalogue](Screenshot/catalogue.jpeg) | ![Workshops](Screenshot/workshop.jpeg) | ![Maps](Screenshot/maps.jpeg) |
 
+---
 
 ## 👩‍💻 Developed By
 
