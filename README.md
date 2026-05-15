@@ -127,6 +127,7 @@ Channapatna Namma Pride provides a digital verification platform where every aut
 
 ---
 ## Screenshots
+![Home]([screenshots/home.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/home.jpeg)) | ![Verify]([screenshots/verify.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/verify.jpeg)) | ![AI]([screenshots/ai.jpeg](https://github.com/JeevikaPandian/channapatna-namma-pride/blob/47a62454386318bce747a15427a64e46ce6fbd6b/Screenshot/ai.jpeg))
 
 
 
