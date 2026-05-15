@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="saffron">#FF8C00</color>
+    <color name="saffron_dark">#FF6B35</color>
+    <color name="gold">#FFD700</color>
+    <color name="forest">#2D7A4F</color>
+    <color name="forest_light">#4CAF78</color>
+    <color name="cream">#FFF9F0</color>
+    <color name="deep">#1A1A2E</color>
+    <color name="purple">#7C3AED</color>
+    <color name="purple_light">#9F5FEF</color>
+
+    <!-- Text -->
+    <color name="text_main">#2C1810</color>
+    <color name="text_muted">#7A6A60</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#CC3333</color>
+
+    <!-- Navigation -->
+    <color name="nav_active">#FF8C00</color>
+    <color name="nav_inactive">#7A6A60</color>
+
+    <!-- Status bar -->
+    <color name="statusBarColor">#FF8C00</color>
+</resources>

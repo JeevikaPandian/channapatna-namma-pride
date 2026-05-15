@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Toy top shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C54,20 70,30 70,50 C70,65 63,75 54,80 C45,75 38,65 38,50 C38,30 54,20 54,20Z" />
+
+    <!-- Base of toy -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M47,80 L61,80 L58,92 L50,92Z" />
+
+    <!-- Center circle -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M54,40 C59,40 64,45 64,50 C64,55 59,60 54,60 C49,60 44,55 44,50 C44,45 49,40 54,40Z" />
+
+</vector>

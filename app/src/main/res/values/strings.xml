@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Channapatna Namma Pride</string>
+    <string name="brand_tagline">Authentic Heritage • Karnataka\'s Living Craft</string>
+    <string name="gi_badge">🏛️ GI CERTIFIED</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_verify">Verify</string>
+    <string name="nav_ai">AI Guide</string>
+    <string name="nav_catalogue">Catalogue</string>
+    <string name="nav_workshops">Workshops</string>
+
+    <!-- Verify screen -->
+    <string name="verify_title">Verify Toy Authenticity</string>
+    <string name="verify_subtitle">Enter the 6-digit ID printed on the product tag</string>
+    <string name="btn_verify">🔍 Verify Toy</string>
+    <string name="btn_voice_verify">🎤 Speak the Toy ID</string>
+    <string name="verified_badge">✅ GI VERIFIED AUTHENTIC</string>
+    <string name="counterfeit_warning">⚠️ Counterfeit Warning</string>
+    <string name="counterfeit_msg">Beware of plastic imitations sold as Channapatna toys. Always verify your 6-digit ID. Invalid IDs indicate a possible fake.</string>
+
+    <!-- AI screen -->
+    <string name="nammabot_title">NammaBot — Heritage AI Guide</string>
+    <string name="nammabot_subtitle">Powered by Claude · Ask about toys, artisans, craft heritage</string>
+    <string name="chat_hint">Ask about Channapatna heritage…</string>
+
+    <!-- Permissions -->
+    <string name="perm_mic_rationale">Microphone permission is needed to use voice input.</string>
+    <string name="perm_camera_rationale">Camera permission is needed to scan QR codes.</string>
+</resources>

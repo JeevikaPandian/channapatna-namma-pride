@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_process_step.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_process_step.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_home.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_toy_card.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_toy_card.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_workshop.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_workshop.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_chat_user.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_chat_user.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_chat_bot.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_chat_bot.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_catalogue.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_catalogue.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/activity_main.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/item_artisan_card.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/item_artisan_card.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_ai.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_ai.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_workshops.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_workshops.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_learn.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_learn.xml"
+    },
+    {
+        "merged": "com.channapatna.nammapride.app-mergeDebugResources-61:/layout/fragment_verify.xml",
+        "source": "com.channapatna.nammapride.app-main-64:/layout/fragment_verify.xml"
+    }
+]
